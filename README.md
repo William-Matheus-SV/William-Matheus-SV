@@ -62,14 +62,6 @@ Olá, me chamo William Matheus, estou com 31 anos e sou natural de Pernambuco, R
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10 px;" 
-    src="https://github-readme-stats.vercel.app/api?username=william-matheus-sv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
