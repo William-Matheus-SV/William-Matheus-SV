@@ -116,12 +116,13 @@ Olá, me chamo William Matheus, tenho 32 anos e sou natural de Jaboatão, Pernam
 <br/>
 <br/>
 <br/>
+
 ### 📊 Estatísticas
 
 <p align="left">
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats-william-msv-projects.vercel.app/api/top-langs/?username=william-matheus-sv&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=7200" 
+    src="https://meu-readme-stats-beige.vercel.app/meu-card" 
   />
 </p>
