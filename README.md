@@ -25,19 +25,27 @@ Olá, me chamo William Matheus, tenho 32 anos e sou natural de Jaboatão, Pernam
 />
 <img 
     align="left" 
+    alt="Boostrap" 
+    title="Boostrap"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" 
+/>
+<img
+    align="left" 
+    alt="Thymeleaf" 
+    title="Thymeleaf"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg"
+/>
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
@@ -55,18 +63,64 @@ Olá, me chamo William Matheus, tenho 32 anos e sou natural de Jaboatão, Pernam
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
+/>
+<img
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
+/>
 
+<img
+    align="left" 
+    alt="React" 
+    title="React"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
-<p>
-<img 
-    align="left" 
+<p align="left">
+  <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-matheus-sv&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=86400"
-/>
-
+    src="https://github-readme-stats-william-msv-projects.vercel.app/api/top-langs/?username=william-matheus-sv&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=7200" 
+  />
 </p>
