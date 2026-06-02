@@ -104,14 +104,15 @@ Olá, me chamo William Matheus, tenho 32 anos e sou natural de Jaboatão, Pernam
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" 
 />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<p  align="left"> 
+    <img 
+        alt="Git" 
+        title="Git"
+        width="50px" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats-wine-nine-12.vercel.app/api/top-langs/?username=william-matheus-sv&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=7200" 
+  />
+</p>
 <br/>
 <br/>
 <br/>
