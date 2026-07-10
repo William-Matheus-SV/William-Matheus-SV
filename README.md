@@ -57,14 +57,6 @@ Olá, me chamo William Matheus, tenho 32 anos e sou natural de Jaboatão, Pernam
 />
 <img 
     align="left" 
-    alt="Node" 
-    title="Node"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
     alt="Java" 
     title="Java"
     width="50px" 
@@ -78,6 +70,14 @@ Olá, me chamo William Matheus, tenho 32 anos e sou natural de Jaboatão, Pernam
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node" 
+    title="Node"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
 />
 <img 
     align="left" 
