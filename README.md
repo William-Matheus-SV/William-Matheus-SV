@@ -41,6 +41,14 @@ Olá, me chamo William Matheus, sou natural de Jaboatão, Pernambuco. Sou formad
 />
 <img 
     align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+/>
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="50px" 
@@ -57,6 +65,14 @@ Olá, me chamo William Matheus, sou natural de Jaboatão, Pernambuco. Sou formad
 />
 <img 
     align="left" 
+    alt="FastAPI" 
+    title="FastAPI"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
+ />
+<img 
+    align="left" 
     alt="Java" 
     title="Java"
     width="50px" 
@@ -70,6 +86,15 @@ Olá, me chamo William Matheus, sou natural de Jaboatão, Pernambuco. Sou formad
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+/>
+
+<img
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
 <img 
     align="left" 
